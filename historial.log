@@ -1,0 +1,54 @@
+commit 5bfd363c860c70851837984c14a3c18405cd0b2b
+Merge: f2ab298 846ee3d
+Author: Darren <darren.angelo.lajara@gmail.com>
+Date:   Wed Sep 25 12:25:04 2024 +0100
+
+    Resuelto problemas de fusión.
+
+commit f2ab298da7f210758120b5b18eb328b9e9b79fcb
+Author: Darren <darren.angelo.lajara@gmail.com>
+Date:   Wed Sep 25 12:10:15 2024 +0100
+
+    Cambiado el fondo del footer a rojo.
+
+commit 89ab9bc8f24b61979c1063396357a76418c597b9
+Author: Darren <darren.angelo.lajara@gmail.com>
+Date:   Wed Sep 25 12:09:30 2024 +0100
+
+    Vinculado y cambiado el nombre del archivo .css al index.html
+
+commit 846ee3dbdb46bc4cc46bd76410999ebd62cbf3da
+Author: SevenDLA <sevendeleonamador@gmail.com>
+Date:   Wed Sep 25 12:06:28 2024 +0100
+
+    Añadir estilo a header con CSS
+
+commit 8f8f6ce6af77d033a2d68b33f5b5c146da663c72
+Author: Darren <darren.angelo.lajara@gmail.com>
+Date:   Wed Sep 25 12:06:24 2024 +0100
+
+    Creado un archivo .css para el index
+
+commit 93a19d5a056981c1edab865ef8f82a1057e8e003
+Author: SevenDLA <sevendeleonamador@gmail.com>
+Date:   Wed Sep 25 12:00:33 2024 +0100
+
+    Añadir header a index.html
+
+commit c5e92d0157fb2965d6e9e4a9897918323c25ee44
+Author: Darren <darren.angelo.lajara@gmail.com>
+Date:   Wed Sep 25 12:00:08 2024 +0100
+
+    Añadido un footer al index.html
+
+commit eaac753b47f12615a0c73d200bf5f76a7e4e3488
+Author: SevenDLA <sevendeleonamador@gmail.com>
+Date:   Wed Sep 25 11:57:47 2024 +0100
+
+    Agregar estructura básica de index.html
+
+commit 17a5747d2e025d266f2b4de409326b585e7fa135
+Author: Seven <sevendeleonamador@gmail.com>
+Date:   Wed Sep 25 11:46:40 2024 +0100
+
+    Initial commit
